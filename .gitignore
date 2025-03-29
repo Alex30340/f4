@@ -1,0 +1,20 @@
+# === Node / React ===
+node_modules/
+build/
+dist/
+.env
+
+# === Python / FastAPI ===
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+venv/
+.env
+.DS_Store
+
+# === Logs & IDE ===
+*.log
+.vscode/
+.idea/
+*.sqlite3
